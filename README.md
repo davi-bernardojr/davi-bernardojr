@@ -1,8 +1,8 @@
 ### Olá, eu sou o Davi 👋!
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-bernardojr&show_icons=true&theme=radical">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-bernardojr&layout=compact&theme=radical">
-
+<div dir="auto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-bernardojr&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-bernardojr&layout=compact&theme=radical">
+</div>
 
 ## Tecnologias que estou ingressando a fundo 
 
